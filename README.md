@@ -1,4 +1,4 @@
-#About 
+About
 Developing and implementing a MLOps pipeline for a ML problem, leveraging the capabilities of MLflow
 
 Robust automated workflow that covers the entire ML lifecycle, including data validation, processing, model training, evaluation, validation and deployment
